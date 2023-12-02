@@ -55,7 +55,7 @@ MIDDLEWARE = [
     'corsheaders.middleware.CorsMiddleware',
 ]
 
-CORS_ORIGIN_WHITELIST = ["http://127.0.0.1:8000", "http://localhost:49240"]
+CORS_ORIGIN_WHITELIST = ["https://hanbyeol111.github.io"]
 CORS_ALLOW_CREDENTIALS = True
 
 
