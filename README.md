@@ -4,7 +4,7 @@ Department of Artificial Intelligence, Kyung Hee University
 ## Interests
 - AI
 
-## Teck Stack
+## Tech Stack
 - Python
 - C++
 - Git
